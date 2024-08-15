@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "adminpass",
+    "phoneNo":"9898989898",
+    "address":"patia",
+    "state":"odisha",
+    "zipCode":"234567",
+    "url": "./Assets/admin.jpg",
+    "role": "admin"
+  },
+  {
+    "name": "Normal User 1",
+    "email": "user1@example.com",
+    "password": "user1pass",
+    "phoneNo":"9898989898",
+    "address":"patia",
+    "state":"odisha",
+    "zipCode":"234567",
+    "url": "./Assets/user1.jpg",
+    "role": "user"
+  },
+  {
+    "name": "Normal User 2",
+    "email": "user2@example.com",
+    "password": "user2pass",
+    "phoneNo":"9898989898",
+    "address":"patia",
+    "state":"odisha",
+    "zipCode":"234567",
+    "url": "./Assets/user2.jpg",
+    "role": "user"
+  }
+]

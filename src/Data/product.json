@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "url": "./Assets/Tree1.png",
+    "header": {
+      "title": "Product 1",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "url": "./Assets/Tree2.png",
+    "header": {
+      "title": "Product 2",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "url": "./Assets/Tree3.png",
+    "header": {
+      "title": "Product 3",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "url": "./Assets/Tree4.png",
+    "header": {
+      "title": "Product 4",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "url": "./Assets/plant1.png",
+    "header": {
+      "title": "Product 5",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "url": "./Assets/plant2.png",
+    "header": {
+      "title": "Product 6",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "url": "./Assets/plant3.png",
+    "header": {
+      "title": "Product 7",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "url": "./Assets/plant4.png",
+    "header": {
+      "title": "Product 8",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "url": "./Assets/Tray.png",
+    "header": {
+      "title": "Product 9",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "url": "./Assets/Soil.png",
+    "header": {
+      "title": "Product 10",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "url": "./Assets/Soil2.png",
+    "header": {
+      "title": "Product 11",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "url": "./Assets/Spade.png",
+    "header": {
+      "title": "Product 12",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "url": "./Assets/Duck1.png",
+    "header": {
+      "title": "Product 13",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "url": "./Assets/Duck2.png",
+    "header": {
+      "title": "Product 14",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "url": "./Assets/Duck3.png",
+    "header": {
+      "title": "Product 15",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "url": "./Assets/Duck4.png",
+    "header": {
+      "title": "Product 16",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "url": "./Assets/pot1.png",
+    "header": {
+      "title": "Product 17",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "url": "./Assets/pot2.png",
+    "header": {
+      "title": "Product 18",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "url": "./Assets/pot3.png ",
+    "header": {
+      "title": "Product 19",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures. "
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering. ",
+      "light": "Bright indirect light environments. ",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "url": "./Assets/pot4.png",
+    "header": {
+      "title": "Product 20",
+      "subTitle": "Three Leaf Clover, symbolizes good luck and fortune in many cultures."
+    },
+    "guide": {
+      "water": "Allow the soil to dry out completely before watering.",
+      "light": "Bright indirect light environments.",
+      "tips": "Gently insert a toothpick into the soil to determine if your plant needs watering."
+    },
+    "description": "A caudiciform plant with reddish and green leaves. Interestingly, the leaves fold up in pairs during the evening. Keep away from children and pets. <br />Plants images depicted are solely for illustration purposes only"
+  }
+  
+]

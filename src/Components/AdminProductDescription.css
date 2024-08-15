@@ -1,0 +1,31 @@
+.prod-desc-contr{
+    margin: 80px;
+    display: flex;
+  }
+  
+  .product-text{
+    width: 50%;
+  }
+  
+  .guide{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  span{
+    border-bottom: 1px solid #000; 
+    display: block; 
+    width: 100%;
+  }
+  
+  .product-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+  }
+  
+  .product-img img{
+    width: 300px;
+    height: auto;
+  }

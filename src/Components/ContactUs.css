@@ -1,0 +1,43 @@
+.contact-us-box{
+    display: flex;
+    margin: 0px 200px;
+}
+
+.contact-info{
+    border: 3px solid #b48f8f;
+    padding: 40px;
+    width: 50%;
+}
+
+.contact-form{
+    border: 3px solid #b48f8f;
+    border-left: 0px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    width: 50%;
+}
+
+.contact-form input{
+    height: 20px;
+    margin-bottom: 20px;
+    font-size: medium;
+    background-color: #b48f8f;
+    padding: 15px;
+    border: 0px;
+    color: #fff9f0;
+}
+
+.contact-form input::placeholder{
+    color: #fff9f0;
+    opacity: 1;
+}
+
+.contact-form button {
+    border: 0px;
+    border-radius: 25px;
+    background-color: #c9c0b1;
+    padding: 5px;
+    width: 30%;
+    font-size: medium;
+}
