@@ -1,0 +1,14 @@
+.product-list-container{
+  margin: 80px;
+}
+
+.product-div{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 3px solid #f2eadd;
+}
+
+.product-card{
+  display: flex;
+  border: 3px solid #f2eadd;
+}

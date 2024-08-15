@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plant-house/static/css/main.f2198053.css",
+    "main.js": "/plant-house/static/js/main.7744289a.js",
+    "index.html": "/plant-house/index.html",
+    "main.f2198053.css.map": "/plant-house/static/css/main.f2198053.css.map",
+    "main.7744289a.js.map": "/plant-house/static/js/main.7744289a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2198053.css",
+    "static/js/main.7744289a.js"
+  ]
+}
